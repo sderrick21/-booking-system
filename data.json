@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 {"user": "derrick", "room": 102}
+=======
+[
+  { "id": 1, "title": "Python Basics" },
+  { "id": 2, "title": "OOP for Beginners" }
+]
+>>>>>>> 2591b35fe8fa49a6f973792dc5568ab88b27b350
